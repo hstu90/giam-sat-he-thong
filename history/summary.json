@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qtnb.trungvuong.vn.ico",
     "slug": "quan-tri-noi-bo",
     "status": "up",
-    "uptime": "95.92%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "95.92%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "95.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3232,
     "timeDay": 3232,
     "timeWeek": 3232,
     "timeMonth": 3232,
     "timeYear": 3232,
-    "dailyMinutesDown": {
-      "2026-11-03": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quản lý bán hàng",
