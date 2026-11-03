@@ -13,6 +13,8 @@ sites:
     url: https://qtnb.trungvuong.vn
   - name: Quản lý bán hàng
     url: http://qlbh.trungvuong.vn
+  - name: Hướng dẫn sử dụng SmartCA
+    url: https://ca.trungvuong.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
