@@ -10,7 +10,9 @@ sites:
   - name: Thời khóa biểu
     url: http://tkb.trungvuong.vn
   - name: Quản trị nội bộ
-    url: https://qtnb.trungvuong.vn/
+    url: https://qtnb.trungvuong.vn
+  - name: Quản lý bán hàng
+    url: http://qlbh.trungvuong.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +20,7 @@ status-website:
   cname: demo.upptime.js.org
   baseUrl: /giam-sat-he-thong
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Giám sát hẹ thống"
+  name: "Giám sát hệ thống"
   introTitle: "Hệ thống giám sát tình trạng hoạt động các dịch vụ"
   introMessage: "Trang này tự động cập nhật tình trạng hoạt động của các webapp mỗi 5 phút một lần."
   navbar:
