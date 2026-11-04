@@ -40,19 +40,20 @@
     "url": "http://tkb.trungvuong.vn",
     "icon": "https://icons.duckduckgo.com/ip3/tkb.trungvuong.vn.ico",
     "slug": "thoi-khoa-bieu",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 2116,
-    "timeDay": 2116,
-    "timeWeek": 2116,
-    "timeMonth": 2116,
-    "timeYear": 2116,
+    "status": "up",
+    "uptime": "75.62%",
+    "uptimeDay": "75.62%",
+    "uptimeWeek": "75.62%",
+    "uptimeMonth": "75.62%",
+    "uptimeYear": "75.62%",
+    "time": 1974,
+    "timeDay": 1974,
+    "timeWeek": 1974,
+    "timeMonth": 1974,
+    "timeYear": 1974,
     "dailyMinutesDown": {
-      "2026-11-03": 1
+      "2026-11-04": 138,
+      "2026-11-03": 114
     }
   },
   {
@@ -60,19 +61,20 @@
     "url": "https://qtnb.trungvuong.vn",
     "icon": "https://icons.duckduckgo.com/ip3/qtnb.trungvuong.vn.ico",
     "slug": "quan-tri-noi-bo",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 3161,
-    "timeDay": 3161,
-    "timeWeek": 3161,
-    "timeMonth": 3161,
-    "timeYear": 3161,
+    "status": "up",
+    "uptime": "75.64%",
+    "uptimeDay": "75.64%",
+    "uptimeWeek": "75.64%",
+    "uptimeMonth": "75.64%",
+    "uptimeYear": "75.64%",
+    "time": 3043,
+    "timeDay": 3043,
+    "timeWeek": 3043,
+    "timeMonth": 3043,
+    "timeYear": 3043,
     "dailyMinutesDown": {
-      "2026-11-03": 0
+      "2026-11-04": 138,
+      "2026-11-03": 114
     }
   },
   {
@@ -99,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ca.trungvuong.vn.ico",
     "slug": "huong-dan-su-dung-smart-ca",
     "status": "down",
-    "uptime": "56.63%",
-    "uptimeDay": "56.63%",
-    "uptimeWeek": "56.63%",
-    "uptimeMonth": "56.63%",
-    "uptimeYear": "56.63%",
+    "uptime": "42.19%",
+    "uptimeDay": "42.19%",
+    "uptimeWeek": "42.19%",
+    "uptimeMonth": "42.19%",
+    "uptimeYear": "42.19%",
     "time": 1464,
     "timeDay": 1464,
     "timeWeek": 1464,
     "timeMonth": 1464,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2026-11-03": 319
+      "2026-11-04": 138,
+      "2026-11-03": 432
     }
   }
 ]
