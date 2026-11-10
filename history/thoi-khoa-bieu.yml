@@ -1,7 +1,7 @@
 url: http://tkb.trungvuong.vn
-status: up
-code: 200
-responseTime: 2478
-lastUpdated: 2026-11-10T04:28:54.339Z
+status: down
+code: 502
+responseTime: 2519
+lastUpdated: 2026-11-10T22:01:29.940Z
 startTime: 2026-11-03T09:04:44.858Z
 generator: Upptime <https://github.com/upptime/upptime>
